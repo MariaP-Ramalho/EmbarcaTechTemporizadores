@@ -14,7 +14,8 @@ Temporizador Periódico: Alterna entre três LEDs de forma cíclica a cada 3 seg
 - LEDs desligam um por vez em intervalos de 3 segundos.
 - O botao aciona os leds novamente apenas quando estão todos desligados.
 
-### Temporizador Periódico (TemporizadorPeriodico.c)Alterna automaticamente entre três LEDs a cada 3 segundos.
+### Temporizador Periódico
+- Alterna automaticamente entre três LEDs a cada 3 segundos.
 - Implementa um temporizador periódico (add_repeating_timer_ms).
 - Apenas um LED permanece aceso por vez, seguindo um ciclo contínuo com intervalos de 3s.
 - Mensagens de depuração são enviadas via printf().
