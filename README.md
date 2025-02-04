@@ -48,7 +48,7 @@ Clone este repositório e configure o ambiente de desenvolvimento do Raspberry P
 
 ```bash
 git clone https://github.com/MariaP-Ramalho/EmbarcaTechTemporizadores
-cd Temporizadores-Pico
+cd TemporizadorOneShot (ou TemporizadorPeriodico)
 mkdir build
 cd build
 cmake ..
